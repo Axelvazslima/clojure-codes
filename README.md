@@ -8,7 +8,7 @@ This repository contains Clojure projects for educational purposes. I'm explorin
 2. Explore projects to learn Clojure concepts.
 
 ## Where are the codes at?
-Just go to src/clojure-codes an then are all there. Their names will tell you what that code is about.
+Just go to src/clojure-codes an they are all there. Their names will tell you what that code is about.
 
 ## Contributing
 
